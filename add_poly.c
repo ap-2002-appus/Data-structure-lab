@@ -4,8 +4,8 @@
 
 
 typedef struct {
-    int coeff; // Coefficient
-    int exp;   // Exponent
+    int coeff; 
+    int exp;   
 } Term;
 
 
